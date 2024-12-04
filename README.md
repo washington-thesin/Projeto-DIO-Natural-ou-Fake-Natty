@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de E-book utilizando ia generativa #
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fiz a crianção de e-book completo utilizando ia gerenetivas aplicando comando textuais descritivos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei nesse projeto a ferramente GAMMA APP, storylab.ai e galaxy.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+utilizando o seguinte comando "Crie um e-book em PDF com imagens e linguagem natural, trazendo os 10 maiores e melhores motivos para pessoas de outras área migrarem para a área de tecnologia em geral, explicando cada um dos motivos de forma resumida e atrativa, mostrando algum benefícios da área tambem" porem o que teve melhor desempenho e entrega foi o GAMMA APP.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://gamma.app/docs/10-Motivos-para-Migrar-para-a-Tecnologia-ruypuagb2cqzi7k
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Fiquei realmente impressionado com a qualidade e habilidade que temos nas ia's atualemente e realmente teve um desafio de encontrar um texto que trouxesse a descrição exata e que a ia entendesse de forma clara para trazer o resultado esperado, isso de transpassarmos nossa ideia e pensamento para a ia é algo que me deixa intrigado rs.
